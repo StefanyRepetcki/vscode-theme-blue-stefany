@@ -1,0 +1,35 @@
+{
+    "name": "stefany-blue-theme",
+    "displayName": "stefany-blue-theme",
+    "description": "Tema dark azul para todas as pessoas apaixonadas por azul :)",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StefanyRepetcki/vscode-theme-blue-stefany"
+    },
+    "keywords": [
+        "azul",
+        "cian",
+        "sky",
+        "sweet",
+        "cute",
+        "dark"
+    ],
+    "publisher": "stefanycr",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stefany-blue-theme.json"
+            }
+        ]
+    }
+}
