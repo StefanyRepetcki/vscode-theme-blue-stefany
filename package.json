@@ -2,7 +2,7 @@
     "name": "stefany-blue-theme",
     "displayName": "stefany-blue-theme",
     "description": "Tema dark azul para todas as pessoas apaixonadas por azul :)",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -19,6 +19,7 @@
         "cian",
         "sky",
         "sweet",
+        "blue",
         "cute",
         "dark"
     ],
